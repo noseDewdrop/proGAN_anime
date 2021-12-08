@@ -24,8 +24,8 @@ Edit the config.py file to match the setup you want to use. Then run train.py
 
 ## My Model
 ```
-链接：https://pan.baidu.com/s/1-weFTGA-wyhaPQRvyot6kw 
-提取码：rjm3
+link：https://pan.baidu.com/s/1-weFTGA-wyhaPQRvyot6kw 
+password：rjm3
 ```
 ### Testing
 Edit the config.py file and run it,you can see the results in saved_256.You can run the watch_data.py to see all the results you want to see. 
