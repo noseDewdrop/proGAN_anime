@@ -12,8 +12,8 @@ https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pyt
 ## Results
 ||
 |:---:|
-|![](results/res_0.png)|
-|![](results/res_3.png)|
+|![](res_1.png)|
+|![](res_4.png)|
 
 
 ### animefaces256cleaner dataset
