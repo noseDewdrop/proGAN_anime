@@ -1,5 +1,3 @@
-# This is my homework
-##1201002019
 
 # ProGAN
 a GAN network, from paper Network Embedding via Proximity Generative
